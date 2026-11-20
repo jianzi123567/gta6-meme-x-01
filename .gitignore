@@ -1,0 +1,7 @@
+node_modules/
+out/
+/output/
+media-generation-*.png
+makefun-ghost.png
+makefun-wordmark.svg
+media-generation-*.json
